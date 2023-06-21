@@ -73,6 +73,12 @@ header:after{
     right: 0;
 }
 
+
+.linkedin{
+    width: 20px;
+    height: 20px;
+}
+
 nav{
     position: absolute;
     top: 0;
